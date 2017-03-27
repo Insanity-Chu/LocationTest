@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location API</string>
+    <string name="lbl_you_are_at">Your Location</string>
+    <string name="btn_get_location">My Location</string>
+    <string name="btn_start_location_updates">Start Location Updates</string>
+    <string name="btn_stop_location_updates">Stop</string>
+</resources>
